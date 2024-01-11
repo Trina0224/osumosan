@@ -3,7 +3,7 @@
 2. Create a file named .replit. Put python main.py after "run" This can help to solve the "index.html" issue.
 3. A credit card is required.
 4. A special GPT Token is required for this repo.
-5. During the deployment stage, Public directory is "/"  
+5. During the deployment stage, deploy with cloudier, the middle one, and use all default settings. check your .replit should look like mine.   
 
 # ChatGPT Line Bot
 
