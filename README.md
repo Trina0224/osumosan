@@ -1,8 +1,9 @@
 # Deployment Issue and Solutions  
-1. Manually reinstall opencc and others. command: pip install opencc youtube_transcript_api bs4 pymongo 
+1. Manually reinstall opencc and others. command: pip install opencc youtube_transcript_api bs4 pymongo   
 2. Create a file named .replit. Put python main.py after "run" This can help to solve the "index.html" issue.
 3. A credit card is required.
-4. A special GPT Token is required for this repo. 
+4. A special GPT Token is required for this repo.
+5. During the deployment stage, Public directory is "/"  
 
 # ChatGPT Line Bot
 
